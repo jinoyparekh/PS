@@ -1,2 +1,2 @@
 # PS
-PowerShell Script
+PowerShell Script for finding repeating char from input
