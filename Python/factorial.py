@@ -1,4 +1,6 @@
 import math
+
+"""
 def factorial(n):
     if n == 0:
         return 1
@@ -8,3 +10,8 @@ def factorial(n):
 
 n = int(input("Input a number to compute the factiorial : "))
 print(factorial(n))
+"""
+if n>=0 :
+    print(math.factorial(n))
+else:
+    print("Value of n is inValid!")
