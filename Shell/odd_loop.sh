@@ -1,4 +1,7 @@
-for ((i=1;i<=99;i=i+2))
+#odd loop
+min=1;
+max=99;
+for ((i=min;i<=max;i=i+2))
 do
 echo "$i";
 done
